@@ -60,8 +60,6 @@ There weren't so many edge-cases to test, so it was pretty quick to test it. At 
 * [Immutable](https://github.com/facebook/immutable-js) - Immutable persistent data collections for Javascript which increase efficiency and simplicity.
 * [Flow](https://flowtype.org/) - A static type checker for JavaScript
 
-I'm looking forward experimenting GraphQL, Relay and drop MongoDB/Mongoose
-
 ## Authors
 
 * **Vincent Taing** - *Initial work* - [vnctaing](https://github.com/vnctaing)
