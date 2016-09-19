@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # React Redux Tic Tac Toe
 
 React Redux Tic Tac Toe is a small app, that lets you simply play Tic Tac Toe
